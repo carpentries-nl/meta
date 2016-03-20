@@ -6,3 +6,4 @@
 - Marieke Dirksen
 - Sam Nooij
 - Dennis Schmitz
+- Mateusz Kuzak
